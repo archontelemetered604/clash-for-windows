@@ -1,11 +1,6 @@
-# Clash for Windows
+# Clash for Windows 下载与官网导航
 
 <img width="512" height="512" alt="68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f302f30622f436c6173685f4c6f676f2e706e673f3230323130353135303935333438" src="https://github.com/user-attachments/assets/66d85549-6f42-4212-9b0d-874fad7bf4db" />
-
-[![GitHub Stars](https://img.shields.io/github/stars/clash-for-windows-download/clash-for-windows?style=flat-square&color=00d4aa)](https://github.com/clash-for-windows-download/clash-for-windows/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/clash-for-windows-download/clash-for-windows?style=flat-square&color=0099cc)](https://github.com/clash-for-windows-download/clash-for-windows/network)
-[![Downloads](https://img.shields.io/github/downloads/clash-for-windows-download/clash-for-windows/total?style=flat-square&color=7c5cbf)](https://github.com/clash-for-windows-download/clash-for-windows/releases)
-[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
 ## Overview
 Clash for Windows is a powerful and user-friendly graphical client for Clash core. It supports rule-based proxying with advanced features including Shadowsocks, V2Ray, Trojan, Hysteria, VMess, SSR and many other protocols. The application provides an intuitive dashboard, system proxy mode, TUN mode, global and rule-based routing, and excellent stability. Perfect for users who need a reliable and feature-rich proxy client on Windows 11.
